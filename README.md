@@ -7,7 +7,3 @@ If you're interested to learn how that whole "full-time open source developer" t
 * [My second year as a full-time open source developer](https://cketti.de/2022/01/22/my-second-year-as-a-full-time-open-source-developer/) (2021)
 
 If you find my work useful, please consider becoming one of my [sponsors](https://github.com/sponsors/cketti) 💖
-
----
-
-Mastodon: [@cketti@fosstodon.org](https://fosstodon.org/@cketti) | Twitter: [@cketti](https://twitter.com/cketti) | Blog: [https://cketti.de](https://cketti.de)
