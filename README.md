@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm cketti, an independent full-time open source developer. I spend most of my time working on [K-9 Mail](https://github.com/k9mail/k-9), an email app for Android. But I love all things open soure and try to help out where I can 🔧
+I'm cketti, an independent full-time open source developer. I spend most of my time working on [K-9 Mail](https://github.com/k9mail/k-9), an email app for Android. But I love all things open source and try to help out where I can 🔧
 
 If you're interested to learn how that whole "full-time open source developer" thing has worked out for me so far, check out these blog posts:
 * [My first year as a full-time open source developer](https://cketti.de/2021/01/14/my-first-year-as-a-full-time-open-source-developer/) (2020)
